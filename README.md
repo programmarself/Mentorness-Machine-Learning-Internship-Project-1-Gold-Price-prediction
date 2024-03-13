@@ -11,6 +11,9 @@
 [![Website](https://img.shields.io/badge/Website-Contact%20Me-red?style=for-the-badge&logo=website)](https://datasciencetoyou.odoo.com)
 <h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨💻Author: Irfan Ullah Khan</h1>
 
+![GITHUB](https://github.com/programmarself/Mentorness-Machine-Learning-Internship-Project-1-Gold-Price-prediction/assets/134633289/13dca2e9-7a8d-43ba-998b-cb275a282a00)
+
+
 Problem Statement:
 This project aims to leverage a comprehensive dataset of daily gold prices spanning from January 19,
 2014, to January 22, 2024, obtained from Nasdaq. The dataset encompasses key financial metrics for
